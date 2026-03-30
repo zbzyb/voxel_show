@@ -1,0 +1,16 @@
+[project]
+name = "voxel-show"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "matplotlib>=3.10.8",
+    "numpy>=2.2.6",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pyqt6>=6.10.1",
+    "pyvista>=0.46.4",
+    "pyvistaqt>=0.11.3",
+]
